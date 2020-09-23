@@ -1,0 +1,239 @@
+@font-face {
+    font-family:"bearhungs";
+    src: url(fonts/bearhungs.ttf);
+}
+
+.font1{
+  
+    color:#432108;
+    font-size: 24px;
+}
+
+.marginTitle{
+    margin-top: -40px;
+}
+
+
+.font2{
+    font-family:"bearhungs";
+    color:#432108;
+    font-size: 24px;
+}
+
+.font{
+    text-transform: lowercase;
+    font-family:"bearhungs";
+    color:#432108;
+    font-size: 42px;
+}
+
+.positionM{
+    margin-top: -50px;
+}
+
+
+.app-button1{
+    background: #FF9C00;
+    margin-top: 5%;
+
+}
+
+.app-button{
+    color:#432108;
+}
+
+.nameSize{
+    width: 75%;
+}
+
+.logo
+{
+    width: 80%;
+    margin-bottom: 3%;
+}
+
+
+.header{
+    width: 100%;
+    margin-bottom: 75px;
+}
+
+i{
+    color:#432108;
+}
+
+.princHead{
+    width: 100%;
+    height: 20%;
+    background: #FF9C00;
+}
+
+.HeadRes{
+    width: 100%;
+    height: 20%;
+    background: #FF9C00;
+}
+
+.footer{
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+
+.footer1{
+    width: 100%;
+    margin-top: 12px;
+}
+
+
+
+.mTop{
+    margin-top: 10%;
+}
+
+.mTop2{
+    margin-top: 25%;
+}
+
+.margin1{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.fontBoton{
+    width: 90%;
+}
+
+.fontBoton1{
+    width: 70%;
+}
+.fontBoton3{
+    width: 55%;
+}
+
+.fontChelips{
+
+    width: 45%;
+}
+
+.row{
+    width: 100%;
+}
+
+.edit{
+    margin-top: 30px;
+    width: 75%;
+    margin-bottom: 20px;
+}
+
+.app-topbar2{
+    background: #FF9C00; 
+}
+
+.app-content{
+    background: #E9EBBE;  
+}
+.app-button3{
+    background: #FF9C00;
+    margin-top: 10px;
+    margin-bottom: 7.5px;
+    margin-left: 20px;
+    padding: 2px;
+    color:#432108;
+    width: 40px;
+    height: 30px;
+ }
+
+.app-button2{
+   background: #FF9C00;
+   color:#432108;
+}
+
+.app-buttonVal{
+    background: #FF9C00;
+    color:#432108;
+ }
+
+.app-buttonE{
+    background: #FF9C00;
+    color:#432108;
+    margin-top: 40px;
+ }
+
+.app-button1, .app-button2{
+    color:#432108;
+    width: 35%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.fondo{
+    background: rgb(105, 105, 55);
+}
+
+.margin{
+    margin-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+.marginN{
+    margin-top: 10px;
+
+    padding-left: 15px;
+    padding-right: 5px;
+    font-size: 18px;
+}
+
+.marginRes{
+    padding-left: 15px;
+}
+
+.margini{
+    margin-bottom: 30.3px;
+    font-size: 18px;
+}
+
+.margin3{
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 5px;
+}
+
+.position{
+    margin-left: 72%;
+    padding:15px;
+}
+
+.section{
+    margin-top: 80px;
+}
+
+.row1{
+    margin-right: 20px;
+}
+
+.dataBack{
+    font-size: 40px;
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+.center{
+    margin-top: 20px;
+    margin-left: 20px; 
+}
+
+.star{
+    font-size: 40px;
+    color:#432108;
+
+}
+
+.row2{
+    margin-top: 80px;
+    margin-left: 50px;
+    width: 80%;
+}
+
